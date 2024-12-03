@@ -1,4 +1,3 @@
-////////////////////////////////////
 // Coding Challenge #1
 
 /*
@@ -12,6 +11,7 @@ TEST DATA 1: Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1
 TEST DATA 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1.76 m tall.
 */
 
+/*////////////////////////////////////
 const massMark = 78;
 const heightMark = 1.69;
 const massJohn = 92;
@@ -23,7 +23,7 @@ const BMIJohn = massJohn / heightJohn ** 2;
 
 const markHigherBMI = BMIJohn < BMIMark;
 console.log(BMIJohn, BMIMark, markHigherBMI);
-
+*/
 /*
 const massMark = 95;
 const heightMark = 1.88;
